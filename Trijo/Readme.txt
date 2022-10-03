@@ -1,2 +1,6 @@
-website ini merupakan sebuah website yang dibuat oleh kelompok kami, yang bernamakan Trijo.
-website ini berisikan tentang sejarah geopark ciletuh
+Thanks for downloading this template!
+
+Template Name: Yummy
+Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
