@@ -913,7 +913,7 @@ section {
 
 .menu .tab-content .tab-header p {
   font-size: 14px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   color: #676775;
   margin-bottom: 0;
 }
