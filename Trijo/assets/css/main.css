@@ -83,6 +83,18 @@ section {
   color: var(--color-primary);
 }
 
+#beranda{
+  background-image: linear-gradient(rgba(0,0,0, 0.7), rgba(0,0,0,0.7)), url(../img/BG.jpg);
+  background-size: cover;
+  color: white;
+}
+
+#beranda h2{
+  color: white;
+}
+
+
+
 /*--------------------------------------------------------------
 # Scroll top button
 --------------------------------------------------------------*/
