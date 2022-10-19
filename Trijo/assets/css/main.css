@@ -52,12 +52,12 @@ section {
   padding: 120px 0 80px 0;
 }
 
-#beranda{
+#home{
   margin-top: -40px;
 }
 
 .darkened{
-  filter: brightness(50%)
+  filter: brightness(40%)
 }
 
 .section-bg {
@@ -1101,6 +1101,10 @@ section {
   opacity: 1;
 }
 
+.shape-member{
+  margin-top: -50px;
+}
+
 /*--------------------------------------------------------------
 # Gallery Section
 --------------------------------------------------------------*/
@@ -1271,6 +1275,11 @@ section {
 
 .hero .middle{
   margin-bottom: 10%;
+}
+
+.hero .carousel-logo{
+  width: 300px;
+  height: 300px;
 }
 
 @media (max-width: 640px) {
